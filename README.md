@@ -1,0 +1,2 @@
+# stattic-website
+resposive website
